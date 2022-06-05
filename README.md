@@ -17,7 +17,7 @@
 - Loading Libraries and dataset
 - Pre-processing the Dataset
 - Dataset is splitted into Training and Testing Data
-- Applying Text Feature Extractor - TD-IDF Vectorizer
+- Applying Text Feature Extractor - TF-IDF Vectorizer (TERM FREQUENCY - INVERSE DOCUMENT FREQUENCY)
 - Loading the PASSIVE AGGRESSIVE CLASSIFIER Algorithm
 - Training the Model using the training dataset
 - Testing the Model using the testing dataset
