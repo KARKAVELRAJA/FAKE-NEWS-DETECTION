@@ -14,16 +14,12 @@
 
 ### WORKFLOW OF FAKE NEWS DETECTION
 
-- Collecting the Dataset
+- Loading Libraries and dataset
 - Pre-processing the Dataset
+- Dataset is splitted into Training and Testing Data
+- Applying Text Feature Extractor - TD-IDF Vectorizer
 - Loading the PASSIVE AGGRESSIVE CLASSIFIER Algorithm
 - Training the Model using the training dataset
 - Testing the Model using the testing dataset
 - Performing Classification
 - Calculating the Accuracy
-
------
-
-### FILES
-
-- fake_or_real_news.csv - dataset
